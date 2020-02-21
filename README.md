@@ -1,7 +1,6 @@
 # pytorch-plagiarism-detection
 
 
-
 ### Project Origin
 Codebase modified from original Udacity repository as a part of the Machine Learning Engineer Nanodegree program.
 
